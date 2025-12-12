@@ -1,0 +1,10 @@
+{
+    "class_names": [
+        "don't have",
+        "have"
+    ],
+    "img_size": [
+        180,
+        180
+    ]
+}
